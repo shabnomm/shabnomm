@@ -1,6 +1,6 @@
 ### Shanzia Shabnom Mithun
 
-Founder of [Civion Solutions]), a B2B AI automation company. We design and deliver AI systems, automation and analytics for businesses.
+Founder of [Civion Solutions], a B2B AI automation company. We design and deliver AI systems, automation and analytics for businesses.
 
 I also publish open source tools and write about machine learning for Towards AI and Real Python.
 
@@ -49,6 +49,4 @@ I also publish open source tools and write about machine learning for Towards AI
 
 &nbsp;
 
-## Contact
-
-[Civion Solutions](https://civion.example) · [LinkedIn](https://linkedin.com/in/sshabnom) · [Email](mailto:you@civion.example)
+[LinkedIn](https://linkedin.com/in/sshabnom) · [Email](shabnommithun@gmail.com)
