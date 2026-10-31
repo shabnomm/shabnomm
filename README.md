@@ -1,8 +1,6 @@
-<img src="./assets/banner.svg" alt="Civion Solutions" width="100%"/>
-
 ### Shanzia Shabnom Mithun
 
-Founder of [Civion Solutions](https://civion.example), a B2B AI automation company. We design and deliver AI systems, automation and analytics for businesses.
+Founder of [Civion Solutions]), a B2B AI automation company. We design and deliver AI systems, automation and analytics for businesses.
 
 I also publish open source tools and write about machine learning for Towards AI and Real Python.
 
